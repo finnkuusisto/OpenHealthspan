@@ -13,16 +13,16 @@ Notes on supplements to mitigate some the negative effects of aging.
 | K3 (mk7) | 100 μg/day |  |
 | Lithium | 1 mg/day |  |
 | DHEA | 50 mg/day |  |
-| L-Theanine | 200 mg/day |  |
+| [L-Theanine](/supplements/l_theanine.md) | 200 mg/day |  |
 | B Blend |  |  |
 | Minoxidil & Finasteride |  | I use the topical combination spray from Hims |
 
 ### Evening
 | Supplement | Dose | Notes |
 | --- | --- | --- |
-| Undenatured Collagen Type II | 40 mg/day |  |
+| [Undenatured Collagen Type II](/supplements/uc_ii.md) | 40 mg/day |  |
 | Melatonin | 300 μg/day |  |
 | Collagen Peptides | 15 g/day |  |
 | Hyaluronic Acid | 200 mg/day |  |
-| Calcium α-Ketoglutarate | 1500 mg/day |  |
+| [Calcium α-Ketoglutarate](/supplements/cakg.md) | 1500 mg/day |  |
 | Mucuna Pruriens | 1 g/day |  |

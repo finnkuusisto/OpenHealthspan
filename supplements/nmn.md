@@ -11,7 +11,12 @@ Overview here
 
 Improved running performance, though lowest dose (300 mg/day) showed no significant effects in the measured outcomes.
 
-### Paper Title
-> Full citation here
+### Long-term administration of nicotinamide mononucleotide mitigates age-associated physiological decline in mice
+> Mills KF, Yoshida S, Stein LR, Grozio A, Kubota S, Sasaki Y, Redpath P, Migaud ME, Apte RS, Uchida K, Yoshino J, Imai SI. Long-Term Administration of Nicotinamide Mononucleotide Mitigates Age-Associated Physiological Decline in Mice. Cell Metab. 2016 Dec 13;24(6):795-806. doi: 10.1016/j.cmet.2016.09.013. Epub 2016 Oct 27. PMID: 28068222; PMCID: PMC5668137.
 
-Notes of relevant results here.
+Fill me in.
+
+### Chronic nicotinamide mononucleotide supplementation elevates blood nicotinamide adenine dinucleotide levels and alters muscle function in healthy older men
+> Igarashi M, Nakagawa-Nagahama Y, Miura M, Kashiwabara K, Yaku K, Sawada M, Sekine R, Fukamizu Y, Sato T, Sakurai T, Sato J, Ino K, Kubota N, Nakagawa T, Kadowaki T, Yamauchi T. Chronic nicotinamide mononucleotide supplementation elevates blood nicotinamide adenine dinucleotide levels and alters muscle function in healthy older men. NPJ Aging. 2022 May 1;8(1):5. doi: 10.1038/s41514-022-00084-z. PMID: 35927255; PMCID: PMC9158788.
+
+Fill me in.
