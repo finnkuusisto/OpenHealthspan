@@ -8,7 +8,6 @@ Justification
 Claims made above should be referenced here.
 
 ### Paper Title
-```
-Full citation here
-```
+> Full citation here
+
 Notes of relevant results here.

@@ -12,7 +12,6 @@ Overview here
 Improved running performance, though lowest dose (300 mg/day) showed no significant effects in the measured outcomes.
 
 ### Paper Title
-```
-Full citation here
-```
+> Full citation here
+
 Notes of relevant results here.
