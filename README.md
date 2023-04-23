@@ -6,7 +6,7 @@ Notes on supplements to mitigate some the negative effects of aging.
 ### Morning
 | Supplement | Dose | Notes |
 | --- | --- | --- |
-| [Nicotinamide Mononucleotide ](/supplements/nmn.md) | 250 mg/day | blah |
+| [Nicotinamide Mononucleotide ](/supplements/nmn.md) | 250 mg/day |  |
 | [Niacin](/supplements/niacin.md) | 200 mg/day |  |
 | Glucosamine Sulfate | 1500 mg/day |  |
 | D3 | 4000 iu/day |  |
