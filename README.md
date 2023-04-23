@@ -1,6 +1,11 @@
 # OpenHealthspan
 Notes on supplements to mitigate some the negative effects of aging.
 
+The goal here is to create a list of safe and effective supplements that could improve quality of life as we age.
+While I don't expect everything here to have human clinical trial support, I do expect everything to be peer-reviewed and to be clear about what kind of support there is.
+Information should include whether the evidence is *in vitro* or *in vivo*, and what kind of animals or cells were studied.
+Let's try to keep it honest.
+
 ## The List
 
 ### Morning
