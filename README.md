@@ -11,7 +11,7 @@ Let's try to keep it honest.
 ### Morning
 | Supplement | Dose | Notes |
 | --- | --- | --- |
-| [Nicotinamide Mononucleotide ](/supplements/nmn.md) | 250 mg/day |  |
+| [Nicotinamide Mononucleotide ](/supplements/nmn.md) | 500 mg/day |  |
 | [Niacin](/supplements/niacin.md) | 200 mg/day |  |
 | Glucosamine Sulfate | 1500 mg/day |  |
 | D3 | 4000 iu/day |  |
