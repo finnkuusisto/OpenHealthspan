@@ -15,7 +15,7 @@ Let's try to keep it honest.
 | [Niacin](/supplements/niacin.md) | 200 mg/day |  |
 | Glucosamine Sulfate | 1500 mg/day |  |
 | D3 | 4000 iu/day |  |
-| K3 (mk7) | 100 μg/day |  |
+| K2 (mk7) | 100 μg/day |  |
 | Lithium | 1 mg/day |  |
 | DHEA | 50 mg/day |  |
 | [L-Theanine](/supplements/l_theanine.md) | 200 mg/day |  |
