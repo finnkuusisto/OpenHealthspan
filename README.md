@@ -19,7 +19,6 @@ Let's try to keep it honest.
 | Lithium | 1 mg/day |  |
 | DHEA | 50 mg/day |  |
 | [L-Theanine](/supplements/l_theanine.md) | 200 mg/day |  |
-| B Blend |  |  |
 | Minoxidil & Finasteride |  | I use the topical combination spray from Hims |
 
 ### Evening
