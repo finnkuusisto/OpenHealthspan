@@ -27,6 +27,6 @@ Let's try to keep it honest.
 | [Undenatured Collagen Type II](/supplements/uc_ii.md) | 40 mg/day |  |
 | Melatonin | 300 μg/day |  |
 | Collagen Peptides | 15 g/day |  |
-| Hyaluronic Acid | 200 mg/day |  |
+| [Hyaluronic Acid](/supplements/hyaluronic_acid.md) | 200 mg/day |  |
 | [Calcium α-Ketoglutarate](/supplements/cakg.md) | 1500 mg/day |  |
 | Mucuna Pruriens | 1 g/day |  |
