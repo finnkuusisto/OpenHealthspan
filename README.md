@@ -14,7 +14,7 @@ Let's try to keep it honest.
 | [Nicotinamide Mononucleotide ](/supplements/nmn.md) | 500 mg/day |  |
 | [Niacin](/supplements/niacin.md) | 200 mg/day |  |
 | Glucosamine Sulfate | 1500 mg/day |  |
-| D3 | 4000 iu/day |  |
+| [D3](/supplements/d3.md) | 4000 iu/day |  |
 | K2 (mk7) | 100 μg/day |  |
 | Lithium | 1 mg/day |  |
 | DHEA | 50 mg/day |  |
