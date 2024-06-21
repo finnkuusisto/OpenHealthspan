@@ -4,7 +4,7 @@ It is found in every connective tissue and organ in the human body, and is a pri
 It is cheap and safe to consume.
 
 ## What Dose and Why?
-200 mg/day
+400 mg/day
 
 This is based on a review of oral HA for knee pain.
 Much smaller effective doses were noted in that trial with 200mg being near the highest dose reviewed.
