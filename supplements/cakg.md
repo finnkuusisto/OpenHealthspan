@@ -2,7 +2,7 @@
 Overview here
 
 ## What Dose and Why?
-1500 mg/day
+1000 mg/day
 
 There isn't a lot of support in humans yet.
 I'm roughly basing this on the dose in the Rejuvant paper
